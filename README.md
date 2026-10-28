@@ -18,6 +18,19 @@ Note that this is not tested/does not run, because the plastic would melt from h
 
 # Assembly
 <i>Print out all the parts!</i>
+
+Here is the CAD for reference: https://cad.onshape.com/documents/a88638ba70845716c60d09ad/w/95721509719e81cc85900464/e/23355bab8f0dd3e4b7a81d09?renderMode=0&uiState=6ae153af595165037360c70a
+
+<u>Notes</u>
+
+**Holes indicate holes for screws that you can use to connect the parts.**
+
+**During assembly, screws for the gear holder use the 2mm screws, while screws for the linkage require the glass watch screws!**
+
+**Glue the cylinder to the stand using your super glue**
+
+<u>Steps:</u>
+
 1. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/a916ca71-fd46-4549-b11d-028db60497a9" />
 2. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/e308975c-0467-499e-a385-90c2d59d3182" />
 3. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/d3ce1d88-9a5e-47cb-97f3-8c0593710e43" />
@@ -34,8 +47,15 @@ Note that this is not tested/does not run, because the plastic would melt from h
 14. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/8e1c4b0d-dbb8-4e82-ad79-0f427c538a16" />
 15. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/fc21bb02-f934-4bb3-92d8-ed0bf4577164" />
 16. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/10ae4371-3cde-4bfd-a942-75fc447111dc" />
-17. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/1dbdb065-9c07-4ef7-834a-42116592df67" />
-18. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/92d2c6fe-b531-406a-9cae-14b445c7dfb9" />
+<br>
+Be sure to use your nuts and screws from the glass watch screw kit!
+<br>
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/f91bddd9-93a1-406f-9c59-418d6fc88284" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/a097d6a0-ffd0-487a-9db8-56b02cdbf743" />
+
+
+18. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/1dbdb065-9c07-4ef7-834a-42116592df67" />
+19. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/92d2c6fe-b531-406a-9cae-14b445c7dfb9" />
 
 
 
