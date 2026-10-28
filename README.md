@@ -11,7 +11,36 @@ Note that this is not tested/does not run, because the plastic would melt from h
 - The stand holding the gears should be printed so that the stand is positioned horizontally to maximize strength
 - Everything else can be printed according to preference! :D
 # Bill of materials
-- Glass watch screws
-- 2 mm screws
+- Glass watch screws and bolts with screw driver (9 screws, 4 bolts)-> $7.99 -> https://a.co/d/00xMulaC
+- 2mm screws (2 screws with 4 mm height, and at least 4 screws with 12-16 mm height) -> $6.99 -> https://a.co/d/043UEMKD
+- Super glue (1) -> $9.99 -> https://a.co/d/04ECuO9W
+<br>
+
 # Assembly
-1. 
+<i>Print out all the parts!</i>
+1. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/a916ca71-fd46-4549-b11d-028db60497a9" />
+2. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/e308975c-0467-499e-a385-90c2d59d3182" />
+3. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/d3ce1d88-9a5e-47cb-97f3-8c0593710e43" />
+4. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/28ecb5d8-fa6c-43ad-9e75-8cdc41ccf767" />
+5. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/0f18da42-537b-46e3-97e3-4d258eb97864" />
+6. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/a9169685-032b-4fe6-bc83-2da7ff3bc1c9" />
+7. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/fc929e8b-ba76-43f6-9c36-52ec4be28805" />
+8. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/96a78cf7-aad9-4086-ac16-9db716a453bd" />
+9. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/1c04b705-d5cc-48d0-a1b4-f8288f21cca0" />
+10. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/e019eee4-6ac8-4702-8e9f-e4f30bf00a40" />
+11. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/46e06b10-a4b9-4e45-92bc-cd5fd3d8491c" />
+12. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/3e1901d9-ce32-4467-aead-422d5aa7c7e8" />
+13. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/60249463-b4d1-49a8-b9dd-789958c91c6d" />
+14. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/8e1c4b0d-dbb8-4e82-ad79-0f427c538a16" />
+15. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/fc21bb02-f934-4bb3-92d8-ed0bf4577164" />
+16. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/10ae4371-3cde-4bfd-a942-75fc447111dc" />
+17. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/1dbdb065-9c07-4ef7-834a-42116592df67" />
+18. <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/92d2c6fe-b531-406a-9cae-14b445c7dfb9" />
+
+
+
+
+
+
+
+
