@@ -1,3 +1,5 @@
+<img width="2090" height="1063" alt="屏幕截图_4-11-2026_7921_www icloud com" src="https://github.com/user-attachments/assets/c0bd9928-a497-48cb-8297-042575d82899" />
+
 # Rhombic-stirling-model
 Rhombic stirling engine model replicating the motion created by the rhombic drive.
 Note that this is not tested/does not run, because the plastic would melt from heat sources such as fire!
