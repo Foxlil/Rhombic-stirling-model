@@ -5,7 +5,7 @@ description: A stirling engine model that you can 3d print for visual and educat
 created_at: "2026-08-12"
 ---
 
-NOTE: Starts later in the project following ~67 hours recorded due to lapse error
+NOTE: Starts later in the project following ~75 hours recorded due to lapse error
 
 # August 10: optimal stirling engine crankshaft linkage
 
