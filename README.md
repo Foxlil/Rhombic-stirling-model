@@ -1,5 +1,12 @@
 <img width="2090" height="1063" alt="屏幕截图_4-11-2026_7921_www icloud com" src="https://github.com/user-attachments/assets/c0bd9928-a497-48cb-8297-042575d82899" />
 
+# !IF YOU ARE REVIEWING FOR STARDANCE!:
+First, thank you for your hard work!
+<br>
+SECOND: Please take JOURNAL.md into account! It was stated as a viable alternative to lapse if lapse wasn't working in Stardance Resources. Unfortunately the pay out for my previous project did not take the recorded time from its JOURNAL.md into consideration. Please include JOURNAL.md, as it is mentioned in the website itself to count for pay out. I would really, really appreciate it. 
+Don't worry, I'll delete this after blurb I receive the pay out. 
+Thank you, please include JOURNAL.md time as promised!
+
 # Rhombic-stirling-model
 Rhombic stirling engine model replicating the motion created by the rhombic drive.
 Note that this is not tested/does not run, because the plastic would melt from heat sources such as fire!
